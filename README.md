@@ -92,7 +92,8 @@ step 3: open jupyter notebook
 
 step 4: copy file Train and paste in first cell of your notebook or just download two files train.py and predict.py and run them
 
-step 5: change directory from where you will open data
+step 5: change directory from where you will open data <img width="414" height="129" alt="image" src="https://github.com/user-attachments/assets/ebba2b81-cc04-429e-9db4-d01ac30aa8f1" /> here should be your path to the data
+
 
 step 6: run it
 
