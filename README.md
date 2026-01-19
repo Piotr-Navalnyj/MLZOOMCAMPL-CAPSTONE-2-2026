@@ -86,11 +86,11 @@ The final model achieved stable performance with low prediction error on unseen 
 
 1: Download all stuff in requirenment.txt most of them you can easily be downloaded by typed in cmd: pip install "all things from requirenments"
 
-step 2: download data 
+step 2: download data StudentPerformance.csv
 
 step 3: open jupyter notebook
 
-step 4: copy file Train and paste in first cell of your notebook
+step 4: copy file Train and paste in first cell of your notebook or just download two files train.py and predict.py and run them
 
 step 5: change directory from where you will open data
 
